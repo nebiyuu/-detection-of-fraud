@@ -3,3 +3,5 @@
 /__pycache__/
 *.pyc
 fraud_detection_blog_report.md
+*.ipynb_checkpoints
+*.pkl

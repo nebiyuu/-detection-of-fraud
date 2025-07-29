@@ -22,6 +22,8 @@ jobs:
             pip install -r requirements.txt
           else
             echo "No dependencies to install"
+          fi
+
     
 
       - name: Run unit test
